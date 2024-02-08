@@ -1,0 +1,9 @@
+To run the script,
+save it to a file (e.g., security_check.sh),
+make it executable (chmod +x security_check.sh),
+Then execute it (./security_check.sh).
+replace the in the script with the url of the website you wnat to asses.
+Example.
+
+http://example.com" with the URL of the website you want to assess.
+

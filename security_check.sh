@@ -30,3 +30,4 @@ perform_security_checks() {
 
 # Main script
 perform_security_checks
+:
